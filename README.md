@@ -1,3 +1,5 @@
+# Note: This package has moved to https://github.com/JuliaSparse/Metis.jl
+
 # Metis.jl
 
 [![][travis-img]][travis-url] [![][codecov-img]][codecov-url]
